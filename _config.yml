@@ -5,4 +5,7 @@ author_name:        "Sahil Hasan and Andrew Cui"
 logo_url:           https://avatars1.githubusercontent.com/u/4761944?v=4
 
 # Site Settings
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: heiswayi/the-plain
