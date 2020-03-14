@@ -2,7 +2,7 @@
 title:              "Gradient Ascent"
 description:        "A blog and shared knowledge repository"
 author_name:        "Sahil Hasan and Andrew Cui"
-logo_url:           https://avatars1.githubusercontent.com/u/4761944?v=4
+logo_url:           https://raw.githubusercontent.com/sahilhasan/gradientascent/master/assets/tmp_logo.png
 
 # Site Settings
 plugins:
