@@ -9,3 +9,18 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: heiswayi/the-plain
+permalink:          /:title # Post permalink
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Building
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+
+# Other things
+plugins:
+  - jekyll-sitemap
