@@ -1,6 +1,6 @@
 ---
 title: Lorem Ipsum (Sports)
-categories: [andy]
+categories: andy
 tags: - sports
 ---
 

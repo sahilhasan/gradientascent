@@ -1,6 +1,6 @@
 ---
 title: Lorem Ipsum (Tech)
-categories: [sahil]
+categories: sahil
 tags: - tech
 ---
 
