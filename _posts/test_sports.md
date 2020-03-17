@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum (Sports)
 categories: [andy]
-tags:   [sports]
+tags: - sports
 ---
 
 

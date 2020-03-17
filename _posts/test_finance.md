@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum (Finance)
 categories: [sahil]
-tags:   [finance]
+tags: - finance
 ---
 
 
