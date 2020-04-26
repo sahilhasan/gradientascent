@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Lorem Ipsum (Finance)
-categories: sahil
-tags: - finance
+categories: [sahil]
+tags: [finance]
+permalink: /finance/
 ---
 
 

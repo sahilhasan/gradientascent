@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Lorem Ipsum (Sports)
-categories: andy
-tags: - sports
+categories: [andy]
+tags: [sports]
+permalink: /sports/
 ---
 
 
