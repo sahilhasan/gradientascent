@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Lorem Ipsum (Finance)
-categories: [sahil]
+title: Test Finance Post
+categories: [finance]
 tags: [finance]
-permalink: /finance/
+permalink: /test_finance/
 ---
 
-
-I'm a fun little place holder!!!
+This is a test finance post! 

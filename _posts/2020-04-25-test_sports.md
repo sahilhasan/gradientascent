@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Lorem Ipsum (Sports)
-categories: [andy]
+title: Test Sports Post
+categories: [sports]
 tags: [sports]
-permalink: /sports/
+permalink: /test_sports/
 ---
 
-
-I'm a fun little place holder!!!
+This is a test sports post! 
