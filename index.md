@@ -4,8 +4,7 @@ title: Gradient Ascent
 
 ---
 
-## Most Recent Posts!
-
+### Most Recent Posts! 
 <ul>
   {% for post in site.posts limit:3 %}
     <li>
@@ -14,11 +13,9 @@ title: Gradient Ascent
   {% endfor %}
 </ul>
 
+<br>
 
-
-
-## Tags
-
+### Tags
 <ul>
   {% assign sorted_tags = site.tags | sort %}
   {% for tag in sorted_tags %}

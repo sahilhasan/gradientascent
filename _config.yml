@@ -2,7 +2,7 @@
 title:              "Gradient Ascent"
 description:        "A blog and shared knowledge repository"
 author_name:        "Sahil Hasan and Andrew Cui"
-logo_url:           https://avatars1.githubusercontent.com/u/4761944?v=4 #TODO: change this to a proper logo
+logo_url:           https://cdn.theatlantic.com/thumbor/0_N9V6hDj-_lUBfs5xlAjHmZ63Y=/1040x0:4353x3314/500x500/media/img/mt/2018/03/Haider_Ali_Getty/original.jpg #TODO: change this to a proper logo
 
 # Site Settings
 plugins:
