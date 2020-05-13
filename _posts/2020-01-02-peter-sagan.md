@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The No-Stats All-Star
+title: Peter Sagan - Tour De France Legend
 categories: [sports]
 tags: [sports]
-permalink: /nostats_allstar/
+permalink: /peter_sagan/
 ---
 
 [Find the original article here](https://en.wikipedia.org/wiki/Points_classification_in_the_Tour_de_France)
