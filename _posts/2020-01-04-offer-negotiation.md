@@ -6,7 +6,7 @@ tags: [finance]
 permalink: /offer_negotiation/
 ---
 
-[Find the original article](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
+[Find the original article here](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/)
 
 >A good guide on how to negotiate job offers and the fiscal perks around them. High priority for every time there is any job negotiations.  
 
